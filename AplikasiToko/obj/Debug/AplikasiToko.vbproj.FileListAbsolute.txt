@@ -1,0 +1,30 @@
+C:\XIRPL3\AplikasiToko\AplikasiToko\bin\Debug\AplikasiToko.exe.config
+C:\XIRPL3\AplikasiToko\AplikasiToko\bin\Debug\AplikasiToko.exe
+C:\XIRPL3\AplikasiToko\AplikasiToko\bin\Debug\AplikasiToko.pdb
+C:\XIRPL3\AplikasiToko\AplikasiToko\bin\Debug\AplikasiToko.xml
+C:\XIRPL3\AplikasiToko\AplikasiToko\obj\Debug\AplikasiToko.Form1.resources
+C:\XIRPL3\AplikasiToko\AplikasiToko\obj\Debug\AplikasiToko.Form2.resources
+C:\XIRPL3\AplikasiToko\AplikasiToko\obj\Debug\AplikasiToko.green.resources
+C:\XIRPL3\AplikasiToko\AplikasiToko\obj\Debug\AplikasiToko.Resources.resources
+C:\XIRPL3\AplikasiToko\AplikasiToko\obj\Debug\AplikasiToko.red.resources
+C:\XIRPL3\AplikasiToko\AplikasiToko\obj\Debug\AplikasiToko.yellow.resources
+C:\XIRPL3\AplikasiToko\AplikasiToko\obj\Debug\AplikasiToko.vbproj.GenerateResource.Cache
+C:\XIRPL3\AplikasiToko\AplikasiToko\obj\Debug\AplikasiToko.exe
+C:\XIRPL3\AplikasiToko\AplikasiToko\obj\Debug\AplikasiToko.xml
+C:\XIRPL3\AplikasiToko\AplikasiToko\obj\Debug\AplikasiToko.pdb
+C:\Users\ASRock\Documents\File Dicky\AplikasiToko\AplikasiToko\bin\Debug\AplikasiToko.exe.config
+C:\Users\ASRock\Documents\File Dicky\AplikasiToko\AplikasiToko\bin\Debug\AplikasiToko.exe
+C:\Users\ASRock\Documents\File Dicky\AplikasiToko\AplikasiToko\bin\Debug\AplikasiToko.pdb
+C:\Users\ASRock\Documents\File Dicky\AplikasiToko\AplikasiToko\bin\Debug\AplikasiToko.xml
+C:\Users\ASRock\Documents\File Dicky\AplikasiToko\AplikasiToko\obj\Debug\AplikasiToko.vbproj.AssemblyReference.cache
+C:\Users\ASRock\Documents\File Dicky\AplikasiToko\AplikasiToko\obj\Debug\AplikasiToko.Form1.resources
+C:\Users\ASRock\Documents\File Dicky\AplikasiToko\AplikasiToko\obj\Debug\AplikasiToko.Form2.resources
+C:\Users\ASRock\Documents\File Dicky\AplikasiToko\AplikasiToko\obj\Debug\AplikasiToko.green.resources
+C:\Users\ASRock\Documents\File Dicky\AplikasiToko\AplikasiToko\obj\Debug\AplikasiToko.Resources.resources
+C:\Users\ASRock\Documents\File Dicky\AplikasiToko\AplikasiToko\obj\Debug\AplikasiToko.red.resources
+C:\Users\ASRock\Documents\File Dicky\AplikasiToko\AplikasiToko\obj\Debug\AplikasiToko.yellow.resources
+C:\Users\ASRock\Documents\File Dicky\AplikasiToko\AplikasiToko\obj\Debug\AplikasiToko.vbproj.GenerateResource.cache
+C:\Users\ASRock\Documents\File Dicky\AplikasiToko\AplikasiToko\obj\Debug\AplikasiToko.vbproj.CoreCompileInputs.cache
+C:\Users\ASRock\Documents\File Dicky\AplikasiToko\AplikasiToko\obj\Debug\AplikasiToko.exe
+C:\Users\ASRock\Documents\File Dicky\AplikasiToko\AplikasiToko\obj\Debug\AplikasiToko.xml
+C:\Users\ASRock\Documents\File Dicky\AplikasiToko\AplikasiToko\obj\Debug\AplikasiToko.pdb
